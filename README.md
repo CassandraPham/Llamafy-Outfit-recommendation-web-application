@@ -39,6 +39,9 @@ We also used a variety of packages to help ease the implementation of the front 
 I was more frontend-oriented in this project while still involved with the backend. I was responsible for both frontend and backend development for the profile page, which allows users to update their information. I was also involved in developing the wardrobe page where users can add and delete their wardrobe items. 
 
 ## Running the project
+Please note this repository is for code review only. The application is, unfortunately, no longer supported with paid services required for it to run.
+
+
 To get the site up and running, please follow below steps:
 
 ### Front end
