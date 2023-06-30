@@ -1,4 +1,5 @@
 # LLAMAFY
+### Outfit recommendation web application
 
 Have you ever looked in your wardrobe and decided you have nothing to wear? Have you warn the same outfit two weeks in a row? Who are you? Steve Jobs*?
 
