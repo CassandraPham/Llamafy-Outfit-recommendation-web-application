@@ -254,7 +254,16 @@ We chose MySQL because of its popularity, reliability, and ease of use. We utili
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-This project was completed as part of the COMPSCI 732/SE 750 Course on the 12th day of May 2023.
+This project was completed as part of the COMPSCI 732/SE 750 Course on the 12th day of May 2023.   
+
+Contributers:
+
+Kinzi Ceolin
+Caitlin Greenough
+Dong Woo Hong
+Karl Kapoor
+Cassandra Pham
+Yash Rraj Sood
 
 
 ![llama](https://github.com/UOA-CS732-SE750-Students-2023/project-group-lavender-llamas/assets/42294625/4785291d-b37f-40a0-ab1c-812bc070573f)
