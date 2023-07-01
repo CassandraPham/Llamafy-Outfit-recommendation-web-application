@@ -1,3 +1,7 @@
+This is an university project created by five other developers and myself.
+I was more frontend-oriented in this project while still involved with the backend. I was responsible for both frontend and backend development for the profile page, which allows users to update their information. I was also involved in developing the wardrobe page where users can add and delete their wardrobe items.
+Please note that as this is an university project, the application is, unfortunately, no longer supported with paid services required for it to perform specific tasks such as generating outfits.
+
 # LLAMAFY - Outfit recommendation web application
 
 Have you ever looked in your wardrobe and decided you have nothing to wear? Have you warn the same outfit two weeks in a row? Who are you? Steve Jobs*?
@@ -35,12 +39,7 @@ Additionally, in order to make the project function, we we employed the use of C
 
 We also used a variety of packages to help ease the implementation of the front end of the project such as Material UI (MUI) to ensure responsiveness and with the additional HTML-like functionality of forms etc. We also tested a variety of packages that were designed for specific functions like react-colour which provides the functionality of a variety of colour pickers, along with many others, some of which were later removed from the project due to their lack of compatability with what we wanted the site to do. For example, we trialed useing react-pro-sidebar but due to the lack of understandability of the development notes and the developers seemingly giving up on the package themselves, we settled for using MUI Appbar.
 
-## Personal contribution
-I was more frontend-oriented in this project while still involved with the backend. I was responsible for both frontend and backend development for the profile page, which allows users to update their information. I was also involved in developing the wardrobe page where users can add and delete their wardrobe items. 
-
 ## Running the project
-Please note this repository is for code review only. The application is, unfortunately, no longer supported with paid services required for it to run.
-
 
 To get the site up and running, please follow below steps:
 
