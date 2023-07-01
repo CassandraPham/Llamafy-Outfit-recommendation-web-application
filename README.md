@@ -258,12 +258,12 @@ This project was completed as part of the COMPSCI 732/SE 750 Course on the 12th 
 
 Contributers:
 
-Kinzi Ceolin
-Caitlin Greenough
-Dong Woo Hong
-Karl Kapoor
-Cassandra Pham
-Yash Rraj Sood
+- Kinzi Ceolin
+- Caitlin Greenough
+- Dong Woo Hong
+- Karl Kapoor
+- Cassandra Pham
+- Yash Rraj Sood
 
 
 ![llama](https://github.com/UOA-CS732-SE750-Students-2023/project-group-lavender-llamas/assets/42294625/4785291d-b37f-40a0-ab1c-812bc070573f)
